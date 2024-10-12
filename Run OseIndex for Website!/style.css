@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:azure;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color: black;
+    color: red;
+    padding: 20px;
+    text-align: center;
+  }
+
+  img.swa {
+    width:10%;
+    height:10%;
+  }
+
+  #negus {
+    text-align: center;
+  }
+
+  #hidden {
+    background-color: black;
+    text-align:center;
+    padding: 100px;
+    color:red;
+    font-size:100px;
+    font-family:'Times New Roman', Times, serif;
+  }
+
+  h1 {
+    margin: 0;
+    
+  }
+
+  main {
+    padding: 20px;
+  }
+  
